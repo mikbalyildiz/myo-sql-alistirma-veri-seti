@@ -1,5 +1,7 @@
 # MYO SQL Alıştırma Veri Seti
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24429226.svg)](https://doi.org/10.5281/zenodo.24429226)
+
 **Öğrenci İşleri örnek veritabanı ve sonuç tablolu 26 SQL alıştırması**
 
 Bu depo, meslek yüksekokullarında (MYO) veritabanı ve SQL öğretimi için hazırlanmış küçük, Türkçe bir örnek veritabanı ile ona bağlı alıştırmaları içerir. Bütün sorular aynı veri seti üzerinden ilerler. Her sorunun çözümünde **soru → sorgu → çıkması gereken sonuç tablosu** verilir, böylece öğrenci kendi sonucunu doğrudan karşılaştırabilir.
