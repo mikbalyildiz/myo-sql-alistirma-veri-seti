@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Bu materyali kullanırsanız lütfen aşağıdaki şekilde atıf yapın."
+type: dataset
+title: "MYO SQL Alıştırma Veri Seti: Öğrenci İşleri Örnek Veritabanı ve Sonuç Tablolu SQL Alıştırmaları"
+authors:
+  - family-names: "Yıldız"
+    given-names: "Muhammet İkbal"
+    orcid: "https://orcid.org/0009-0005-3608-5098"
+    affiliation: "Bayburt Üniversitesi"
+    email: "mikbalyildiz@bayburt.edu.tr"
+version: 1.0.0
+date-released: 2026-11-22
+license: CC-BY-4.0
+repository-code: "https://github.com/mikbalyildiz/myo-sql-alistirma-veri-seti"
+abstract: >-
+  Meslek yüksekokullarında veritabanı ve SQL öğretimi için hazırlanmış,
+  Microsoft SQL Server uyumlu Türkçe bir örnek veritabanı (Öğrenci İşleri)
+  ve ona bağlı 26 SQL alıştırması. Her çözüm soru, sorgu ve beklenen sonuç
+  tablosunu birlikte verir. A Turkish sample database with 26 graded SQL
+  exercises and expected result tables for vocational school database courses.
+keywords:
+  - SQL
+  - veritabanı
+  - SQL Server
+  - eğitim
+  - meslek yüksekokulu
+  - alıştırma
+  - database education
+  - open educational resources
